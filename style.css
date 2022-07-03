@@ -1,0 +1,32 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+.tf1{
+    color: tomato;
+}
+section{
+    display: flex;
+}
+.hw1{
+    width: 50%;
+    padding-left: 5%;
+}
+.hw1 img{
+    width: 80%;
+}
+.hire-btn{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
+.top-ban{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
